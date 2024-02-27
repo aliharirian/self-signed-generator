@@ -1,0 +1,12 @@
+domain: "uatk8s.mydigipay.info"
+
+country: "IR"
+state: "Tehran"
+locality: "Tehran"
+
+certs_dir: "certs"
+ca_file_name: "root-ca"
+
+clients:
+  - num1
+  - num2
